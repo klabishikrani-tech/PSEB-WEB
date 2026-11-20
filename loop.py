@@ -5,3 +5,4 @@ average = sum(marks)/len(marks)
 print(average)
 print(max(marks))
 print(min(marks))
+

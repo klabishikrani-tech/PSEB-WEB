@@ -1,0 +1,5 @@
+numbers = range(1,16)
+even_numbers =(n for n in numbers if n % 2 == 0)
+odd_numbers =(n for n in numbers if n % 2 !=0)
+print(even_numbers)
+print(odd_numbers)
